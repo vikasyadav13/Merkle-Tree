@@ -1,0 +1,5 @@
+OWNER: This role is typically assigned to the person or entity that initially deploys the contract. The owner has the highest level of control and can perform tasks such as changing the contract's configuration and transferring ownership to another address.
+
+MINTER: This role is typically responsible for creating new tokens within the contract. Minters are authorized to create new tokens and add them to the contract's total supply. They may also have the ability to modify certain attributes of the tokens, such as their metadata or ownership.
+
+ADMIN: This role typically has more limited permissions than the owner or minter. Administrators are often responsible for performing routine maintenance tasks on the contract, such as upgrading its functionality or changing the access control settings for different roles.
